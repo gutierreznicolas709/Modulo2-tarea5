@@ -1,0 +1,4 @@
+Las APIs permiten que diferentes apps envíen y reciban información en un mismo sistema, de forma ordenada y en tiempo real.
+Así, las comunidades pueden reportar, compartir y recibir alertas de manera centralizada, clara y automática.
+Además, aseguran datos estandarizados y verificables para mejor toma de decisiones.
+Y facilitan la integración con autoridades u otras plataformas sin duplicar esfuerzos.
