@@ -18,6 +18,14 @@ app.get('/mensaje/:nombre', (req, res) => {
   res.send('Hola ' + nombre);
 });
 
+app.post('/reporte', (req, res) => {
+    const mensaje = req.body.mensaje;
+    res.json({
+      estado: "Reporte recibido",
+      mensaje: mensaje
+    });
+  });
+
 app.listen(Puerto, () => {
   console.log('Servidor ejecutándose en puerto' + Puerto);
   console.log("Puedes abrir http://localhost:" + Puerto+ " en el navegador.")
