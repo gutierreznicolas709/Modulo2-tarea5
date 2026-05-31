@@ -1,0 +1,5 @@
+La ruta lo que hace  es recibir un mensaje y 
+contestar nuevamente un mensaje en un archivo json 
+
+Podria servir en una aplicacion comunitaria para recibir 
+datos de los miembros de la comunidad. por ejemplo pqrs
